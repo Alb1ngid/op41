@@ -6,3 +6,9 @@ git remote add origin ссылка на ваш репозиторий - прив
 git add файл\ . - добавляет файлы в гит
 git commit -m '' - сохраняет файлы
 git push origin main/master - отправляет в репозиторий ваш проект
+
+
+полезные команды
+
+git rm --cached namefile: удаляет из репозитория файлы
+
