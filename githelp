@@ -17,3 +17,4 @@ git branch name - создает ветку
 git  checkout name - переключается на эту ветку
 
 git checkout -b name - делает предыдущие 2 команды
+git merge namebranch- слияет ветку в ту ветку на который вы находитесь
