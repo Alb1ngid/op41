@@ -4,7 +4,7 @@ pmnbvbn.py
 
 py2/
 .idea
-__pycache__\
+__pycache__/
 .vs\
 .venv
 env
