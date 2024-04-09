@@ -31,11 +31,11 @@ class Account(BankBeka):
     def names(self):
         print(f'мое имя {self.name}')
 
-
-ac0=Account('beka','12rge3',1000)
-print(ac0.getmoney)
-ac0.getmoney=100000
-print(ac0.getmoney)
-print(ac0)
+if __name__=='__main__':
+    ac0=Account('beka','12rge3',1000)
+    print(ac0.getmoney)
+    ac0.getmoney=100000
+    print(ac0.getmoney)
+    print(ac0)
 
 
