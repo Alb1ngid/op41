@@ -1,5 +1,6 @@
 import time
 
+
 def func_decor(func):
     def wrapper(*args, **kwargs):
         dt=time.time()
